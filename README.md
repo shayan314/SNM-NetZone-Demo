@@ -52,7 +52,7 @@ The system is packed with professional modules to ensure smooth business operati
 
 | Admin Panel | Dashboard | Village / Town |
 | :---: | :---: | :---: |
-| ![Admin Panel](screenshots/image1.png) | ![Dashboard](screenshots/image2.png) | ![Village](screenshots/image3.png) |
+| ![Admin Panel](snm-images/image1.png) | ![Dashboard](screenshots/image2.png) | ![Village](screenshots/image3.png) |
 
 | Clients | Packages | Bills |
 | :---: | :---: | :---: |
