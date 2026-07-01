@@ -52,15 +52,15 @@ The system is packed with professional modules to ensure smooth business operati
 
 | Admin Panel | Dashboard | Village / Town |
 | :---: | :---: | :---: |
-| ![Admin Panel](snm-images/image1.png) | ![Dashboard](screenshots/image2.png) | ![Village](screenshots/image3.png) |
+| ![Admin Panel](snm-images/image1.png) | ![Dashboard](snm-images/image2.png) | ![Village](snm-images/image3.png) |
 
 | Clients | Packages | Bills |
 | :---: | :---: | :---: |
-| ![Clients](screenshots/image4.png) | ![Packages](screenshots/image5.png) | ![Bills](screenshots/image6.png) |
+| ![Clients](snm-images/image4.png) | ![Packages](snm-images/image5.png) | ![Bills](snm-images/image6.png) |
 
 | Payments | Reports | Settings |
 | :---: | :---: | :---: |
-| ![Payments](screenshots/image7.png) | ![Reports](screenshots/image8.png) | ![Settings](screenshots/image9.png) |
+| ![Payments](snm-images/image7.png) | ![Reports](snm-images/image8.png) | ![Settings](snm-images/image9.png) |
 
 ---
 
