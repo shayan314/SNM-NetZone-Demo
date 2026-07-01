@@ -50,7 +50,7 @@ The system is packed with professional modules to ensure smooth business operati
 
 # 📸 System Visuals
 
-Admin Panel    
+## Admin Panel    
 
  ![Admin Panel](snm-images/image1.png) 
  
@@ -76,9 +76,11 @@ Admin Panel
 
 ## Payments
  ![Payments](snm-images/image7.png) 
-Reports
+ 
+## Reports
 ![Reports](snm-images/image8.png) 
-Settings
+
+## Settings
 ![Settings](snm-images/image9.png) 
 
 ---
