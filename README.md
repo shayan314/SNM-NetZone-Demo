@@ -54,25 +54,27 @@ Admin Panel
 
  ![Admin Panel](snm-images/image1.png) 
  
-Dashboard
+## Dashboard
 ![Dashboard](snm-images/image2.png) 
 
-Village / Town
+## Village / Town
 ![Village](snm-images/image3.png)
 
-Clients 
+## Clients 
 
 ![Clients](snm-images/image4.png) 
 
- Packages
+## Packages
  
 ![Packages](snm-images/image5.png) 
 
-Bills
+## Bills
 
-![Bills](snm-images/image6.png) 
+![Bills](snm-images/image6.png)
+![Bills](snm-images/image11.png)
+![Bills](snm-images/image10.png) 
 
-Payments
+## Payments
  ![Payments](snm-images/image7.png) 
 Reports
 ![Reports](snm-images/image8.png) 
